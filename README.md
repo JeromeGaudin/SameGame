@@ -14,6 +14,6 @@ Ce jeu tourne sur toutes les machines qui possèdent Java Developpement Kit (JDK
 ### Lancement
 Une fois le code source téléchargé, le compiler avec la commande : ```make```. Puis lancez l'application en double cliquant sur le fichier "SameGame".
 
-## Auterus
+## Auteurs
 - Ranto RALIJAONA
 - [Jérôme GAUDIN](https://github.com/JeromeGaudin)
