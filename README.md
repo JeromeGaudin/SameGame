@@ -1,6 +1,6 @@
 # SameGame
 
-## Déscription
+## Description
 C'est un jeu tour par tour qui se joue sur une grille, il y a trois types de blocs qui sont positionnés sur la grille. En cliquant sur des blocs du même type qui sont situé l'un à côté de l'autre le groupe de blocs disparait. Plus le groupe de blocsest grand, plus il fait gagner de points. Le but du jeu est de gagner le maximum de point.
 
 Pour avoir un aperçu de l'interface graphique vous pouvez aller [ici](http://dwarves.iut-fbleau.fr/~gaudin/realisations.html#SameGame)
